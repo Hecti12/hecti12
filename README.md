@@ -36,39 +36,95 @@ My background in IT support, operations, esports, and business analytics gives m
 
 ---
 
-## 🛠️ Featured Projects
+# 🧰 IT Support, Systems, and Infrastructure Projects
 
-### 🔹 Enterprise Active Directory Environment in Azure
-A hands-on cloud lab simulating an enterprise IT environment using Azure and Windows Server. This project focuses on identity management, user administration, permissions, and core infrastructure concepts used in real-world IT support and systems administration.
+These projects focus on hands-on IT support skills, enterprise troubleshooting, Windows administration, networking, ticketing systems, documentation, and support operations.
 
-> 🔧 **Technologies:** Azure IaaS, Windows Server, Active Directory Domain Services, Group Policy, DNS, File Shares, NTFS/Share Permissions  
-> 🎯 **Focus:** User/group administration, access control, password resets, shared resources, domain-joined devices, and enterprise troubleshooting  
-> 📸 **Includes:** Documentation, screenshots, architecture notes, and step-by-step lab walkthroughs
+## 🔹 [Windows Server, Active Directory & Network Services Lab](https://github.com/Hecti12/active-directory-lab)
+
+A hands-on Windows Server lab simulating an enterprise IT environment. This project focuses on identity management, user administration, permissions, DNS, Remote Desktop, and core infrastructure concepts used in real-world IT support and systems administration.
+
+> 🔧 **Technologies:** Windows Server, Active Directory Domain Services, Group Policy, DNS, PowerShell, File Shares, NTFS/Share Permissions  
+> 🎯 **Focus:** User/group administration, domain controller setup, Organizational Units, access control, password resets, shared resources, DNS records, Remote Desktop, and enterprise troubleshooting
 
 ---
 
-### 🔹 osTicket Help Desk Deployment
+## 🔹 [DNS Traffic Analysis Lab](https://github.com/Hecti12/dns-traffic)
+
+A networking and packet analysis lab focused on understanding DNS behavior, traffic flow, and troubleshooting methods used in IT support and network operations.
+
+> 🔧 **Technologies:** DNS, Wireshark, Windows, Command Line, ipconfig, Network Troubleshooting  
+> 🎯 **Focus:** DNS lookups, DNS cache behavior, traffic analysis, connectivity troubleshooting, and interpreting network packets
+
+---
+
+## 🔹 [Ticketing System Deployment](https://github.com/Hecti12/Ticketing-System-Deployment)
+
 A help desk ticketing system deployment designed to simulate real IT support workflows from ticket intake to resolution. This project demonstrates how support teams track incidents, document troubleshooting steps, manage SLAs, and escalate issues when needed.
 
 > 🔧 **Technologies:** osTicket, IIS, PHP, MySQL, Windows Server  
-> 🎯 **Focus:** Ticket lifecycle management, incident documentation, user communication, escalation workflows, and service desk operations  
-> 📌 **Status:** Under development
+> 🎯 **Focus:** Ticket lifecycle management, incident documentation, user communication, escalation workflows, SLA awareness, and service desk operations
 
 ---
 
-### 🔹 IT Support & Troubleshooting Knowledge Base
+## 🔹 [IT Support Documentation Knowledge Base](https://github.com/Hecti12/IT-Support-Documentation-Knowledge-Base)
+
 A growing collection of technical notes, troubleshooting guides, and interview-ready explanations for common IT support scenarios.
 
 > 🔧 **Topics:** Windows troubleshooting, macOS/iOS support, Microsoft 365, Active Directory, DNS, DHCP, VPN, Wi-Fi, printers, permissions, and hardware support  
-> 🎯 **Focus:** Clear documentation, repeatable troubleshooting steps, root cause analysis, and user-friendly explanations
+> 🎯 **Focus:** Clear documentation, repeatable troubleshooting steps, root cause analysis, escalation readiness, and user-friendly explanations
 
 ---
 
-### 🔹 Business Analytics & Process Improvement Projects
-Projects focused on using data to identify patterns, improve operations, and support business decisions. These projects connect my IT background with analytics, reporting, and process improvement.
+## 🔹 [IT Devices and Software Tracker: Relational Database & Data Visualization](https://github.com/Hecti12/IT-Devices-and-Software-Tracker_Relational-Databse-and-Data-Visualization)
 
-> 🔧 **Tools:** Excel, SQL, Python, Tableau, Power BI, Power Query  
-> 🎯 **Focus:** Data cleaning, KPI reporting, dashboards, operational insights, and business impact analysis
+An IT operations project focused on tracking devices, software, and support-related assets through a relational database and visualization workflow. This project connects help desk operations with structured reporting and asset visibility.
+
+> 🔧 **Tools:** SQL, Relational Database Design, Data Visualization, Excel, Reporting  
+> 🎯 **Focus:** Asset tracking, software inventory, data organization, operational reporting, and IT support visibility
+
+---
+
+# 📊 Business Analytics Projects
+
+These projects focus on data cleaning, analysis, forecasting, research, reporting, and business decision-making. They show how I use analytics to turn raw data into useful insights.
+
+## 🔹 [Customer Satisfaction Analysis: Data Cleaning & Forecasting](https://github.com/Hecti12/Customer-Satisfaction-Analysis--Data-Cleaning-Forecasting-)
+
+A business analytics project focused on cleaning, analyzing, and forecasting customer satisfaction data to identify trends and support better decision-making.
+
+> 🔧 **Tools:** Python, Excel, Data Cleaning, Forecasting, Data Analysis  
+> 🎯 **Focus:** Customer insights, trend identification, forecasting, reporting, and business decision support
+
+---
+
+## 🔹 [Product Sales Analysis: Nintendo Switch Case Study](https://github.com/Hecti12/Product-Sales-Analysis---Case-Study-Nintendo-Switch-Sales)
+
+A product sales case study analyzing Nintendo Switch sales performance and market trends through a business analytics lens.
+
+> 🔧 **Tools:** Excel, Tableau, Data Analysis, Business Analytics, Reporting  
+> 🎯 **Focus:** Sales trends, product performance, market analysis, regional performance splits, and data-driven recommendations
+
+---
+
+## 🔹 [Real Estate Portfolio Performance Optimization and Research](https://github.com/Hecti12/Real-Estate-Portfolio-Performance-Optimization-and-Research)
+
+A research and analytics project focused on evaluating real estate portfolio performance and identifying opportunities for optimization.
+
+> 🔧 **Tools:** Excel, Data Analysis, Research, Reporting  
+> 🎯 **Focus:** Portfolio performance, investment research, optimization, financial analysis, and business insights
+
+---
+
+# 🌐 Portfolio Website
+
+## 🔹 [Professional Portfolio Website](https://github.com/Hecti12/hecti12.github.io)
+
+A GitHub Pages portfolio site used to showcase my technical projects, analytics work, resume experience, and professional background.
+
+> 🔧 **Technologies:** GitHub Pages, HTML, CSS, JavaScript  
+> 🎯 **Focus:** Professional branding, project documentation, resume presentation, and technical portfolio development  
+> 🌐 **Live Site:** [hecti12.github.io](https://hecti12.github.io)
 
 ---
 
@@ -80,11 +136,27 @@ Projects focused on using data to identify patterns, improve operations, and sup
 
 **Networking & Hardware:** TCP/IP, DNS, DHCP, OSI Model, VPN, Wi-Fi Troubleshooting, Network Cabling, Firewall Connectivity Checks, Azure Virtual Networks, Network Security Groups, Wireshark, PC Repair, Device Deployment, Printer & Peripheral Troubleshooting, Asset Tracking
 
-**Tools & Collaboration:** Microsoft 365/Office 365, Outlook, Teams, SharePoint, Google Workspace, Slack, Dropbox, Zoom, Webex, Jira, ServiceNow, Confluence, osTicket
+**Tools & Collaboration:** Microsoft 365/Office 365, Outlook, Teams, SharePoint, Google Workspace, Slack, Dropbox, Zoom, Webex, Jira, ServiceNow, osTicket, Confluence
 
 **Data & Automation:** SQL, Python, PowerShell, Excel, Business Analytics, Data Analysis, Reporting, Power BI, Tableau, Power Query, Visio, GitHub
 
 **Languages:** Fluent in English and Spanish
+
+---
+
+## 🎓 Education & Certifications
+
+**Master of Business Administration, Business Analytics**  
+New York Institute of Technology | December 2024
+
+**Bachelor of Science, Information Technology**  
+New York Institute of Technology | May 2022
+
+**Certifications In Progress:**
+- CompTIA A+ | Expected June 2026
+- Microsoft 365 Fundamentals | Expected June 2026
+- Apple IT Specialist | Expected June 2026
+- Azure Fundamentals | Expected June 2026
 
 ---
 
@@ -93,6 +165,7 @@ Projects focused on using data to identify patterns, improve operations, and sup
 - Building a GitHub portfolio focused on **IT support, help desk operations, Active Directory, networking, and cloud infrastructure**
 - Strengthening hands-on troubleshooting skills across **Windows, macOS, iOS, Microsoft 365, Active Directory, and networking**
 - Practicing real-world support workflows using **ticketing systems, documentation, escalation steps, and root cause analysis**
+- Continuing to connect **business analytics** with IT support by using data, reporting, and documentation to improve support workflows
 - Preparing for opportunities in **Help Desk Support, Service Desk Analyst, Desktop Support Technician, Technical Support Specialist, IT Support Specialist, IT Operations Analyst, and Junior Systems Administration**
 
 ---
