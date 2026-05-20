@@ -153,7 +153,7 @@ New York Institute of Technology | December 2024
 New York Institute of Technology | May 2022
 
 **Certifications In Progress:**
-- CompTIA A+ | Expected June 2026
+- Network+, Security+ | Expected June/July 2026
 - AB 900 Microsoft 365 Fundamentals | Expected June 2026
 - Apple IT Specialist | Expected June 2026
 - AZ 900 Azure Fundamentals | Expected June 2026
